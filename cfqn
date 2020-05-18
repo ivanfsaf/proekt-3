@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>Страуси</title>
+</head>
+<body text="#336699" bgcolor="#FFFFFF">
+<div align="center">
+<h2>Все про страусів.</h2>
+<br>
+<font color="#FF3333">Розповідь про страусів.</font></div>
+<hr color="#FF00CC">
+<div align="Justify">
+<font color="#000000">
+<font size="+2" face="Cosmic Sans, arial, verdana, courier"> Африканский страус (лат. Struthio camelus) — бескилевая нелетающая птица, единственный современный представитель семейства страусовых (Struthionidae).
+
+Его научное название в переводе с греческого означает «воробей-верблюд» </font>
+
+<p align="right">Іван Лукашевич</p>
+</font>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Afrikanischer_strauss.jpg/275px-Afrikanischer_strauss.jpg" alt="Hety photo" width="300" title="страус"><audio controls="controls" autoplay="autoplay">
+      <source src="pro ctrayca.mp3" type="audio/mp3"/>
+  </audio></p>
+<hr>
+<P><iframe width="560" height="315" src="https://www.youtube.com/embed/pWiW3W4A81s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</div>
+</body>
+</html>
